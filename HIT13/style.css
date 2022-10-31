@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+
+.h,.i,.one{
+    margin-right: 10px;
+}
+.t{
+    margin-right: 50px;
+}
+.h,.t,.ba{
+    display: flex;
+}
+
+.h-mid{
+    display: flex;
+    height: 300px;
+    align-items: center;
+}
+
+.box{
+    width: 60px;
+    height: 60px;
+    background-color: pink;
+}
+.ba-longs{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+

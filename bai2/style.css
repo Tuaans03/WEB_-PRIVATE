@@ -1,0 +1,118 @@
+*{
+    padding: 0;
+    margin: 0%;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: gray;
+}
+
+.header{
+    height: 11vh;
+    margin: 1vh;
+    background-color: pink;
+    border: 2px solid #fff;
+}
+.container{
+    display: flex;
+    height: 71vh;
+    margin: 1vh;
+}
+
+.size{
+    width: 50%;
+}
+.box-top{
+    height: 37vh;
+    background-color: green;
+    margin-right: 1vh;
+    border: 2px solid #fff;
+}
+
+.box-bottom{
+    height: 38vh;
+    display: flex;
+
+}
+.bt-box{
+    height: 19vh;
+    
+}
+.bt1{
+    background-color: black;
+    margin: 1vh 0vh 1vh 0vh;
+    border: 2px solid #fff;
+}
+.bt2{
+    background-color: blue;
+    margin: 1vh 0vh 1vh 0vh;
+    border: 2px solid #fff;
+}
+.bt-right{
+    background-color: violet;
+    margin: 1vh;
+    height: 39vh;
+    border: 2px solid #fff;
+}
+
+.right-top{
+    height: 16vh;
+    display: flex;
+}
+.right-top-max{
+    width: 78%;
+    background-color: yellow;
+    margin-right: 2vh;
+    border: 2px solid #fff;
+}
+
+.right-top-min{
+    width: 20%;
+    background-color: coral;
+    border: 2px solid #fff;
+}
+.right-2{
+    height: 9vh;
+    background-color: black;
+    margin-top: 1vh;
+    border: 2px solid #fff;
+}
+
+.right-flex{
+    display: flex;
+    height: 35vh;
+}
+.box-flex{
+    height: 35vh;
+    width: 33.33%;
+}
+.c1{
+    background-color: cornflowerblue;
+    margin: 1vh 0vh 1vh 0vh;
+    border: 2px solid #fff;
+}
+.c2{
+    background-color:slategrey;
+    margin: 1vh 1vh 1vh 1vh;;
+    border: 2px solid #fff;
+}
+.c3{
+    background-color:tomato;
+    margin: 1vh 0vh 1vh 1vh;
+    border: 2px solid #fff;
+}
+.right-end{
+    height: 14vh;
+    background-color:springgreen;
+    margin: 2vh 0vh 1vh 0vh;
+    border: 2px solid #fff;
+}
+
+.footer{
+    background-color: teal;
+    height: 15vh;
+    margin: 7vh 1vh 1vh 1vh;
+    border: 2px solid #fff;
+}
